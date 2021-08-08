@@ -1,0 +1,11 @@
+[INFO] 00:31:55:391 discordiador/(10220:10221): La planificacion se encuentra pausada
+[ERROR] 01:36:14:733 discordiador/(11883:11884): Accion no valida
+[INFO] 01:36:30:676 discordiador/(11883:11884): La planificacion se encuentra pausada
+[INFO] 01:38:15:416 discordiador/(11932:11933): La planificacion se encuentra pausada
+[ERROR] 01:38:37:920 discordiador/(11932:11933): No se puede conectar al imongostore en 127.0.0.1:15002.
+[INFO] 01:38:37:927 discordiador/(11932:11933): 
+[INFO] 01:39:01:145 discordiador/(11932:11933): Se finalizo la consola
+[INFO] 01:39:14:650 discordiador/(11955:11958): Se finalizo la consola
+[ERROR] 13:34:45:845 discordiador/(21159:21160): Accion no valida
+[ERROR] 13:34:48:169 discordiador/(21159:21160): Accion no valida
+[INFO] 13:34:50:238 discordiador/(21159:21160): Se finalizo la consola
